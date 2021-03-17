@@ -1,0 +1,27 @@
+body {
+  font-family : 'Helvetica', sans-serif;
+}
+
+.canto {
+  font-size : 130%;
+}
+
+
+table td:nth-child(3) {
+  font-style: italic;
+  font-size: 70%;
+}
+
+ol.parallels {
+  list-style-type: none;
+}
+
+tr.ottava td {
+  border-bottom : 2pt solid black
+
+}
+
+.stellenangabe {
+  color : grey;
+  font-size: 70%;
+}
